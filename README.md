@@ -5,19 +5,19 @@
 - [x] Prepare the flow chart
 - [x] Prepare comments or pseudo-code
 - [x] Write down the functionalities
-- [ ] Code
-- [ ] Test
+- [x] Code
+- [x] Test
 ## Breakdown requirements
-- [ ] computer randomly chooses one number in the range from 1 to 100
-- [ ] user can choose the game level: easy and hard
-- [ ] easy level has 10 guesses & hard level has 5 guesses
-- [ ] user can make a guess
-- [ ] each guess is checked
-	- [ ] the match will end the game, and the user wins
-	- [ ] too high guess
-	- [ ] too low guess
-	- [ ] if there are more guesses, the user can make a guess again
-	- [ ] if there are no more guesses, end the game, and the user lost
+- [x] computer randomly chooses one number in the range from 1 to 100
+- [x] user can choose the game level: easy and hard
+- [x] easy level has 10 guesses & hard level has 5 guesses
+- [x] user can make a guess
+- [x] each guess is checked
+	- [x] the match will end the game, and the user wins
+	- [x] too high guess
+	- [x] too low guess
+	- [x] if there are more guesses, the user can make a guess again
+	- [x] if there are no more guesses, end the game, and the user lost
 ## Pseudo-code & Comments
 ### Comments
 In this project, the user can play the guessing game.
